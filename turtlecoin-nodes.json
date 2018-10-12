@@ -203,6 +203,12 @@
       "url": "xaznode.com",
       "port": 11898,
       "ssl": false
+    },
+    {
+      "name": "PUBLIC Community OpenDaemon Node(s)",
+      "url": "opendaemon.turtlenode.net",
+      "port": 11898,
+      "ssl": false
     }
   ]
 }
