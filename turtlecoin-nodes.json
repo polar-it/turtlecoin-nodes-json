@@ -110,7 +110,7 @@
       "url": "public.turtlenode.net",
       "port": 443,
       "ssl": true,
-      "cache": false
+      "cache": true
     },
     {
       "name": "PUBLIC TurtleNode NET",
